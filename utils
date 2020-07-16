@@ -1,8 +1,3 @@
 function1 = {}
 function2 = {}
 function3 = {}
-
-//Feature 1
-feature_func1 = {}
-feature_func2 = {}
-feature_main = {}
